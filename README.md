@@ -1,4 +1,4 @@
-#Sample Application for Spring Boot & Prometheus & Grafana
+# Sample Application for Spring Boot & Prometheus & Grafana
 
 ## Run
 You can run everything required with run.sh script.
