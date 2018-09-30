@@ -3,8 +3,9 @@
 ## Run
 You can run everything required with run.sh script.
 
-Run -> ./run.sh up
-Down -> ./run.sh down
+**Run -> ./run.sh up**
+
+**Down -> ./run.sh down**
 
 Script, creates application image and run it with prometheus & grafana via docker-compose.
 
